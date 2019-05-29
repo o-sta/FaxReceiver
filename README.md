@@ -1,4 +1,4 @@
-# FaxReceiver
+# ImageScanReceiver
 ## 概要
 信号を画像に変換し、表示します。
 
